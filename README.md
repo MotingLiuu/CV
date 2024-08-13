@@ -1,4 +1,4 @@
-Here is the code foe class computer vision of kyoto university.
+Here is the code for class computer vision of kyoto university.
 
 - Project 1 is Homography.
 - Project2 is Mosaicing
