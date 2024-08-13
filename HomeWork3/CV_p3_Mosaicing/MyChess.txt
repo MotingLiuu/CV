@@ -1,0 +1,8 @@
+MyChess1.jpg
+MyChess2.jpg
+MyChess3.jpg
+MyChess4.jpg
+MyChess5.jpg
+MyChess6.jpg
+MyChess7.jpg
+MyChess8.jpg
